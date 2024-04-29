@@ -2,7 +2,7 @@
 
 Frontend dasturchi, frontend dasturlash bo'yicha o'quvchi.
 
-[💼 Portfolio](https://frontendtester.uz) | [💬 Telegram](https://t.me/nodirnabiev) | 📧 nodirnabiev123@gmail.com
+[💼 Portfolio](https://frontendtester.ngb) | [💬 Telegram](https://t.me/nodirnabiev) | 📧 nodirnabiev123@gmail.com
 
 
 ## Texnologiyalar
